@@ -3,7 +3,7 @@
   "name": "accounting-account-reconciliations-api",
   "display_name": "Accounting Account Reconciliations API",
   "description": "Authenticated API for account reconciliation workpapers.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\AccountReconciliationsApi\\AccountReconciliationsApiServiceProvider",
   "requires": {
